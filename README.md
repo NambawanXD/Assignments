@@ -58,7 +58,7 @@ Some implementations are packaged in compressed archives; download the relevant 
 
 **Institution:** Asia Pacific University of Technology & Innovation (APU)  
 **Degree:** Bachelor of Science (BSc) in Computer Science — specialism in Cyber Security  
-**Earlier coursework:** Diploma studies, including [Web Development](./Web%20Development%28Diploma%29/)  
+**Earlier coursework:** Diploma in Software Engineering, including [Web Development](./Web%20Development%28Diploma%29/)  
 **GitHub:** [NambawanXD](https://github.com/NambawanXD)
 
 ## ⚠️ Disclaimer
